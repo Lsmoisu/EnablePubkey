@@ -1,2 +1,2 @@
 # EnablePubkey
-启动ssh免密登录
+启用ssh免密登录
